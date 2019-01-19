@@ -82,6 +82,7 @@ const user = {
 
 user.getFullName();
 
+
 const user2 = user;
 
 user2.name = 'User';
